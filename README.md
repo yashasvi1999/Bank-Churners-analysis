@@ -4,12 +4,9 @@ This repository contains the SQL file of bank churners
 
 OBJECTIVE:-The main objective of this project is to analyze the data and predict who is going to get churned so that we can proactively go to the customer to provide them better services and turn customer's decisions in the opposite direction.
 
-To publish the findings based on data analysis.
-*For analyzing the data,various factors affecting the business should be listed out.
+For analyzing the data,various factors affecting the business should be listed out - In this case study,there are 21 factors mentioning the age,salary,marital status,credit card limit,credit card category etc of 10,000 customers.
 
-*In this case study,there are 21 factors mentioning the age,salary,marital status,credit card limit,credit card category etc of 10,000 customers.
-
-#IMPORTANT FACTORS FORMING A GENERAL TREND AMONGST THE ATTRITED CUSTOMERS ARE AS FOLLOWS:- --> Customer's age --> Income category --> Gender --> Tenure of relationship with bank ---> Marital status --> Education level --> Average utilisation
+IMPORTANT FACTORS FORMING A GENERAL TREND AMONGST THE ATTRITED CUSTOMERS ARE AS FOLLOWS:- --> Customer's age --> Income category --> Gender --> Tenure of relationship with bank ---> Marital status --> Education level --> Average utilisation
 
 Key Takeways:-
 
