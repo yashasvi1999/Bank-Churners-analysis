@@ -1,4 +1,4 @@
-# Personal-Projects
+# Bank-Churners-analysis
 
 This repository contains the SQL file of bank churners
 
